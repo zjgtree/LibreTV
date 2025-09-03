@@ -28,21 +28,21 @@ const API_SITES = {
         adult: true
     },
     yttzy: {
-api: ‘http://caiji.dyttzyapi.com/api.php/provide/vod’,
-name: ‘电影天堂资源’,
-detail: ‘http://caiji.dyttzyapi.com’,
+api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+name: '电影天堂资源',
+detail: 'http://caiji.dyttzyapi.com'
 },
 ruyi: {
-api: ‘https://cj.rycjapi.com/api.php/provide/vod’,
-name: ‘如意资源’,
+api: 'https://cj.rycjapi.com/api.php/provide/vod',
+name: '如意资源'
 },
 bfzy: {
-api: ‘https://bfzyapi.com/api.php/provide/vod’,
-name: ‘暴风资源’,
+api: 'https://bfzyapi.com/api.php/provide/vod',
+name: '暴风资源'
 },
 tyyszy: {
-api: ‘https://tyyszy.com/api.php/provide/vod’,
-name: ‘天涯资源’,
+api: 'https://tyyszy.com/api.php/provide/vod',
+name: '天涯资源'
 }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
