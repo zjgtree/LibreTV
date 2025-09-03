@@ -109,7 +109,7 @@ name: ‘旺旺短剧’
 ikun: {
 api: ‘https://ikunzyapi.com/api.php/provide/vod’,
 name: ‘iKun资源’
-},
+}
 // testSource: {
 // api: ‘https://www.example.com/api.php/provide/vod’,
 // name: ‘空内容测试源’,
